@@ -1,10 +1,9 @@
 ### Hi there 👋 
 <h1 align="center"> ☑️ Hi 👋, I'm Lê Đức Tài 💗  </h1>
 <h3 align="center"> ☑️ I'm from Đà Nẵng , Việt Nam 🔥</h3>
-<h4 align="center"> ☑️ I like playing football ⚽ 🔥</h4>
-- 👯 I’m studying at **Trường Đại học Bách Khoa - Đại học Đà Nẵng**
+- 👯 I’m studying at **Trường Đại học Bách Khoa - Đại học Đà Nẵng** 🔥
 
-- 🤝 My github : **https://github.com/LeDucTai-11**
+- 🤝 My github : **https://github.com/LeDucTai-11** ❗
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
