@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leductai-11&label=Profile%20views&color=0e75b6&style=flat" alt="leductai-11" /> </p>
 
-- 🌱 I’m currently learning **Frameworks,course,stc...**
+- 🌱 I’m currently learning **Frameworks,course,...**
 
 - 👯 I’m studying at **Trường Đại học Bách Khoa - Đại học Đà Nẵng**
 
