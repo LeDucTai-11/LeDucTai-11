@@ -31,4 +31,4 @@
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=LeDucTai-11&&show_icons=true&title_color=00ffff&icon_color=cc66ff&text_color=daf7dc&bg_color=1e2731">
 </p>
-<img alt="LeRon1605's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LeRon1605&custom_title=LeDucTai-11's%20Contribution%20Graph&theme=react-dark" />
+<img alt="LeRon1605's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LeDucTai-11&custom_title=LeDucTai-11's%20Contribution%20Graph&theme=react-dark" />
