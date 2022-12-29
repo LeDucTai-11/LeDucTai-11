@@ -25,10 +25,11 @@
 
 
 ### 📈 My Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=LeDucTai-11&&show_icons=true&title_color=00ffff&icon_color=cc66ff&text_color=daf7dc&bg_color=1e2731">
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeDucTai-11&langs_count=8&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa"/>
 </p>
+<img src="https://github-readme-stats.vercel.app/api?username=LeDucTai-11&&show_icons=true&title_color=00ffff&icon_color=cc66ff&text_color=daf7dc&bg_color=1e2731">
+
 
 
 
