@@ -10,7 +10,7 @@
 
 - 🤝 My github : **https://github.com/LeDucTai-11**
 
-- 📫 How to reach me **ldtai26112002@gmail.com**
+- 📫 How to reach me **ductaidev@gmail.com**
 
 - ⚡ Fun fact **I think I am a good boy**
 
